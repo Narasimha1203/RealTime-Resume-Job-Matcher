@@ -230,8 +230,9 @@ Job alerts
 User dashboards
 Advanced NLP models
 Job recommendation history
-👨‍💻 Author
+## 👨‍💻 Author
 
-Narasimha
-
+**Narasimha**  
 B.Tech Computer Science Engineering
+
+- GitHub: https://github.com/Narasimha1203
