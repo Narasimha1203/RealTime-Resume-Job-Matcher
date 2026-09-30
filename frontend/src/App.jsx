@@ -80,8 +80,7 @@ function App() {
       });
 
       const response = await fetch(
-        `http://127.0.0.1:8000/match-jobs?${params.toString()}`,
-        {
+`https://realtime-resume-job-matcher-1.onrender.com/match-jobs?${params.toString()}`,        {
           method: "POST",
           body: formData,
         }
